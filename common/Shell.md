@@ -1,0 +1,1 @@
+- [Fish shell 入门教程](http://www.ruanyifeng.com/blog/2017/05/fish_shell.html)
