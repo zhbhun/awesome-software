@@ -20,6 +20,7 @@ Markdown
 ## 笔记
 
 - [laverna](https://github.com/Laverna/laverna)
+- [gitnote](https://gitnoteapp.com/zh/)
 
 ## 文档
 

@@ -1,3 +1,14 @@
+# Window
+
+## 录屏/截屏
+
+- [FastStone](http://www.faststone.org/index.htm)
+- [LICEcap](https://github.com/justinfrankel/licecap)
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+
+
+---
+
 - http://msdn.itellyou.cn/
 
 ---
@@ -25,3 +36,7 @@
 - [Windows To Go 辅助工具 - 快速制作可随处运行的 Win10 U盘版系统！(WTG 制作教程)](http://www.iplaysoft.com/wtg-assistant.html)
 - [Remix OS 2 - 专为电脑而生的安卓桌面系统！插上U盘就能让 PC 变成 Android 系统](http://www.iplaysoft.com/remix-os.html)
 - [凤凰系统 Phoenix OS - 专为桌面电脑优化打造的安卓 Android 操作系统！(U盘/硬盘版)](http://www.iplaysoft.com/phoenix-os.html)
+
+---
+
+- [将Windows 8/10 系统装进优盘](https://bbs.luobotou.org/forum.php?mod=viewthread&tid=2427)

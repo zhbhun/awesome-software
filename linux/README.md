@@ -10,6 +10,7 @@
 
 - [flathub](https://flathub.org/home)
 - [snapcraft](https://snapcraft.io/store)
+- https://itsfoss.com/category/list/
 
 
 # 字体
