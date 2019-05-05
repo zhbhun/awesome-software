@@ -1,0 +1,6 @@
+- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+- [awesome-vim](http://vimawesome.com/)
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
+- [awesome-linux-software](https://github.com/VoLuong/Awesome-Linux-Software)
