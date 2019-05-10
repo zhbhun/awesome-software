@@ -1,4 +1,0 @@
-- https://github.com/atom/xray
-- https://github.com/google/xi-editor
-- https://github.com/neovim/neovim
-- https://draculatheme.com/
