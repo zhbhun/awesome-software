@@ -30,3 +30,11 @@
 ### aptitude
 
 - aptitude update
+
+
+## 会话管理
+
+- screen
+
+    - [screen 命令使用及示例](https://linux.cn/article-8215-1.html)
+    - [Linux screen命令](https://www.runoob.com/linux/linux-comm-screen.html)
