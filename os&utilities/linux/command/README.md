@@ -31,8 +31,34 @@
 
 - aptitude update
 
+## 文件管理
 
-## 会话管理
+- ln
+
+    - [每天一个linux命令（35）：ln 命令](https://www.cnblogs.com/peida/archive/2012/12/11/2812294.html)
+
+- tee
+
+    - [tee命令](http://man.linuxde.net/tee)
+
+## 网络管理
+
+- [Linux 查看端口占用情况](https://www.runoob.com/w3cnote/linux-check-port-usage.html)
+
+
+## 系统管理
+
+- [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
+- [Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
+- [init,service和systemctl的区别](https://blog.csdn.net/lineuman/article/details/52578399)
+- [Difference between systemctl init.d and service](https://askubuntu.com/questions/911525/difference-between-systemctl-init-d-and-service)
+
+### 定时任务
+
+- [Linux/UNIX 定时任务 cron 详解](https://linux.cn/article-7513-1.html)
+- [Linux crontab命令](https://www.runoob.com/linux/linux-comm-crontab.html)
+
+### 会话管理
 
 - screen
 
