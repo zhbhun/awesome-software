@@ -7,3 +7,10 @@
 - https://www.linode.com/
 - https://bwh1.net/index.php
 - https://www.digitalocean.com/
+
+---
+
+- [Linux系统中VPN协议PPTP、L2TP、OpenVPN区别](https://my.oschina.net/lionel45/blog/523567)
+- [Linux环境下使用pptpd搭建vpn服务器](https://blog.csdn.net/dongdong9223/article/details/80790203)
+- [Ubuntu 架设 OpenVPN 实现内网穿透](https://cloud.tencent.com/developer/article/1193252)
+- [Ubuntu 16.04搭建OpenVPN服务器以及客户端的使用](https://www.cnblogs.com/EasonJim/p/8339600.html)
