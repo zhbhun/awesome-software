@@ -1,8 +1,12 @@
 # 笔记
 
-- Evernote / 印象笔记
-- 为知笔记
-- 有道云笔记
+- https://alternativeto.net/software/evernote/
+- [Evernote / 印象笔记](https://www.yinxiang.com/)
+- [OneNote](https://www.onenote.com)
+- [Notion](https://www.notion.so)
+- [Keep](https://keep.google.com/)
+- [为知笔记](https://note.wiz.cn/auth/auto)
+- [有道云笔记](https://note.youdao.com/)
 - 定制
 
     - Typora + QQ 截图 + Licecap + iPic
