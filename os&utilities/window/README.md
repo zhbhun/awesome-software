@@ -1,5 +1,10 @@
 # Window
 
+- http://msdn.itellyou.cn/
+- [Download virtual machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+
+    - [3分钟快装Windows虚拟机特供版(附Windows通用激活工具)](https://www.jianshu.com/p/af0db8b231b0)
+
 ## 录屏/截屏
 
 - [FastStone](http://www.faststone.org/index.htm)
