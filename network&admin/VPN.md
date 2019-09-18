@@ -14,3 +14,8 @@
 - [Linux环境下使用pptpd搭建vpn服务器](https://blog.csdn.net/dongdong9223/article/details/80790203)
 - [Ubuntu 架设 OpenVPN 实现内网穿透](https://cloud.tencent.com/developer/article/1193252)
 - [Ubuntu 16.04搭建OpenVPN服务器以及客户端的使用](https://www.cnblogs.com/EasonJim/p/8339600.html)
+
+---
+
+- [申请Oracle Cloud永久免费服务+300美元试用额度](https://51.ruyo.net/14138.html)
+- [申请 Oracle Cloud 永久免费服务 + 300 美元试用额度](https://www.v2ex.com/t/601572)
