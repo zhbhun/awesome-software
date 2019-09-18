@@ -64,3 +64,9 @@
 
     - [screen 命令使用及示例](https://linux.cn/article-8215-1.html)
     - [Linux screen命令](https://www.runoob.com/linux/linux-comm-screen.html)
+
+### 防火墙
+
+- [ubuntu关闭防火墙](https://www.jianshu.com/p/a1a4455ff8fd)
+- [iptables命令](https://man.linuxde.net/iptables)
+- [iptables的基本语法格式](https://www.cnblogs.com/ggjucheng/archive/2012/08/19/2646476.html)
