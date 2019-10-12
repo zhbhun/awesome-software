@@ -19,11 +19,6 @@
 
 - [安卓开发中必备的那些神器APP](http://www.10tiao.com/html/169/201707/2650823558/1.html)
 
-## 远程
-
-- [有没有能PC远程控制android的app？](https://www.zhihu.com/question/23017696)
-- [STF ca..原来 stf 还可以这么玩...](https://testerhome.com/topics/20635)
-
 ## 系统
 
 - [Xposed](https://repo.xposed.info/)
@@ -79,8 +74,21 @@
 - [码字必备：18 款优秀的 Markdown 写作工具 | 2015 年度盘点](https://sspai.com/post/32483)
 - [你不应错过的 22 款 Mac 效率工具 App | 2015 年度盘点](https://sspai.com/post/32453)
 
-## 云真机
+## 远程控制
+
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [Vysor](https://www.vysor.io)
+
+---
 
 - [岩鼠](https://yanshu.effirst.com)
-- [scrcpy](https://github.com/Genymobile/scrcpy)
 - [stf](https://github.com/openstf/stf)
+
+---
+
+- [STF ca..原来 stf 还可以这么玩...](https://testerhome.com/topics/20635)
+- [有没有能PC远程控制android的app？](https://www.zhihu.com/question/23017696)
+- [Android 开源免费跨平台投屏软件](https://zhuanlan.zhihu.com/p/34695060)
+- [电脑操控手机，神器SCRCPY](https://zhuanlan.zhihu.com/p/77306611)
+- [如何将手机内的内容实时投映在电视或电脑屏幕上?](https://www.zhihu.com/question/268973316/answer/351952200)
+- [用电脑控制 Android 设备，大屏上也能刷朋友圈打游戏：Scrcpy](https://zhuanlan.zhihu.com/p/78409697)
