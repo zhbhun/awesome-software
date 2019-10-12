@@ -22,6 +22,8 @@
 ## 远程
 
 - [有没有能PC远程控制android的app？](https://www.zhihu.com/question/23017696)
+- [STF ca..原来 stf 还可以这么玩...](https://testerhome.com/topics/20635)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
 
 ## 系统
 
@@ -77,3 +79,7 @@
 - [今年最值得一看的 16 款阅读 App | 2015 年度盘点](https://sspai.com/post/32432)
 - [码字必备：18 款优秀的 Markdown 写作工具 | 2015 年度盘点](https://sspai.com/post/32483)
 - [你不应错过的 22 款 Mac 效率工具 App | 2015 年度盘点](https://sspai.com/post/32453)
+
+## 云真机
+
+- [岩鼠](https://yanshu.effirst.com)
