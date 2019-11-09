@@ -9,3 +9,8 @@
 ---
 
 - https://www.google.com/search?q=site:v2ex.com/t%20黑苹果
+
+
+---
+
+- [How to install macOS Mojave on VMware Workstation](https://www.aioboot.com/en/macos-vmware-workstation/#VMware-macOS-Unlocker) / https://www.youtube.com/watch?v=cX4FavnzhtY / https://www.youtube.com/watch?v=JkOFf68EeZU
