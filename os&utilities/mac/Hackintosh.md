@@ -13,4 +13,5 @@
 ## VMWare
 
 - [How to install macOS Mojave on VMware Workstation](https://www.aioboot.com/en/macos-vmware-workstation/#VMware-macOS-Unlocker) / https://www.youtube.com/watch?v=cX4FavnzhtY / https://www.youtube.com/watch?v=JkOFf68EeZU
+- [Install macOS 10.15 catalina in VMware on Windows](https://hackintoshpro.com/install-macos-10-15-catalina-in-vmware-on-windows/)
 - [VMware Pro 15安装macOS 10.14 Mojave](https://www.yuque.com/tangjiaqiang/hackintosh/ew0qmr?language=en-us#74dd31a6)
