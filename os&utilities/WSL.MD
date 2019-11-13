@@ -1,5 +1,9 @@
 # WSL
 
+- [Windows10开启Ubuntu子系统简易步骤](https://zhuanlan.zhihu.com/p/34133795)
+- [史上最全win10下Linux子系统的安装及优化方案](https://www.jianshu.com/p/dc32a75e2de4)
+- [在win10的Ubuntu子系统中设置前端开发环境](https://juejin.im/post/5d301be16fb9a07ec56eaf0f#heading-7)
+
 ## 常见问题
 
 ### `Operation not permitted`
