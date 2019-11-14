@@ -11,6 +11,12 @@
 - [LICEcap](https://github.com/justinfrankel/licecap)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
+## 常见问题
+
+### Win10 升级专业版
+
+[Win10家庭版如何升级到win10专业版](https://www.zhihu.com/question/37424608)
+
 
 ---
 
