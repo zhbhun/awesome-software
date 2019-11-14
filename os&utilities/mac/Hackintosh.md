@@ -86,3 +86,9 @@
 - [I am running High Sierra on VMWare Workstation. Does anyone know how to increase graphics memory?](https://www.reddit.com/r/hackintosh/comments/8sszhb/i_am_running_high_sierra_on_vmware_workstation/)
 - [How to increase graphics memory in Mac OS running as a client in VMware?](https://apple.stackexchange.com/questions/79452/how-to-increase-graphics-memory-in-mac-os-running-as-a-client-in-vmware)
 - [Improving Sierra performance in VMWare?](https://www.insanelymac.com/forum/topic/321911-improving-sierra-performance-in-vmware/)
+
+### Y9000x
+
+- [Github](https://github.com/search?q=y9000x)
+- [V2ex](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ACYBGNTk3dwlBpAC6JbumR0kubVfoAo1WA%3A1573735516885&ei=XEzNXcXUNaDXz7sPpei5wAo&q=y9000x+%E9%BB%91%E8%8B%B9%E6%9E%9C+v2ex&oq=y9000x+%E9%BB%91%E8%8B%B9%E6%9E%9C+v2ex&gs_l=psy-ab.3..33i160l2.63867.68578..68797...1.0..0.229.1108.0j6j1......0....1..gws-wiz.......35i39j0i30.IwWNxYL2baw&ved=0ahUKEwjF8tDT3enlAhWg63MBHSV0DqgQ4dUDCAs&uact=5)
+- [y9000x如何安装黑苹果？](https://www.zhihu.com/question/352678380)
