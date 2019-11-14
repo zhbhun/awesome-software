@@ -11,3 +11,7 @@
 - [WSL 文件权限问题](https://hughsite.com/post/chmod-chown-wsl-improvements.html)
 - [WSL Ubuntu Distro | How to solve `Operation not permitted` on cloning repository](https://askubuntu.com/questions/1115564/wsl-ubuntu-distro-how-to-solve-operation-not-permitted-on-cloning-repository)
 - [PHP chmod(): Operation not permitted](https://github.com/Microsoft/WSL/issues/3172#issuecomment-389157376)
+
+### 软件源镜像配置
+
+- [修改 WSL Ubuntu 18.04 默认源为阿里云镜像](https://www.sunzhongwei.com/modify-the-wsl-ubuntu-1804-default-source-for-ali-cloud-images)
