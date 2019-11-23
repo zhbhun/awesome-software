@@ -70,3 +70,9 @@
 - [ubuntu关闭防火墙](https://www.jianshu.com/p/a1a4455ff8fd)
 - [iptables命令](https://man.linuxde.net/iptables)
 - [iptables的基本语法格式](https://www.cnblogs.com/ggjucheng/archive/2012/08/19/2646476.html)
+
+## 测试
+
+### 性能测试
+
+- [在 Linux 上检测 IDE/SATA SSD 硬盘的传输速度](https://zhuanlan.zhihu.com/p/33752337)
