@@ -1,8 +1,16 @@
 # VIM
 
+- https://github.com/vim-awesome/vim-awesome
+- https://github.com/akrawchyk/awesome-vim
+- [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn#vim-%E9%85%8D%E7%BD%AE%E9%9B%86%E5%90%88)
+- https://linhaorong.top/blog/vim/
+- https://github.com/yangyangwithgnu/use_vim_as_ide
+
+## 快捷键
+
 ![vim-cn.gif](./assets/vim-cn.gif)
 
-## 使用教程
+- [VIM Cheet Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
 
 ### 模式切换
 
@@ -156,3 +164,33 @@ Vim 查找支持正则表达式，例如 `/vim$` 匹配行尾的 "vim"。需要�
 
 - [vim 撤销 回退操作](https://blog.csdn.net/xiongzhengxiang/article/details/7206691)
 - [handleKeys is not overriding VS Code Ctrl+R and Ctrl+F shortcuts](https://github.com/VSCodeVim/Vim/issues/3501)
+
+## 配置
+
+- https://spacevim.org/cn/
+- [vimrc](https://github.com/amix/vimrc)
+- https://spacevim.org/
+- https://github.com/liangxianzhe/oh-my-vim
+- https://github.com/mhinz/vim-galore
+- https://github.com/yangyangwithgnu/use_vim_as_ide
+- [Vim 配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html)
+- [可能是 Windows 下最漂亮的 Gvim 配置了](https://keelii.com/2016/06/13/awsome-window-vimrc/)
+
+### 包管理
+
+- https://github.com/tpope/vim-pathogen
+- https://github.com/VundleVim/Vundle.vim
+- https://github.com/junegunn/vim-plug
+- https://github.com/egalpin/apt-vim
+
+### 主题
+
+- [solarized](https://github.com/altercation/solarized)
+- [dracula-theme](https://github.com/dracula/dracula-theme)
+
+### 插件
+
+- https://vimawesome.com/
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+- [fzf](https://github.com/junegunn/fzf)
