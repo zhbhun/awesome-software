@@ -17,6 +17,10 @@
 
 [Win10家庭版如何升级到win10专业版](https://www.zhihu.com/question/37424608)
 
+### 怎么关闭文件共享
+
+- [windows如何关闭默认共享和共享服务 windows7关闭网络共享的方法]( https://www.jb51.net/os/windows/576213.html )
+- [外网文件共享445端口被封解决办法]( https://blog.csdn.net/magaiou/article/details/91845324 )
 
 ---
 
