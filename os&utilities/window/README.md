@@ -20,7 +20,18 @@
 ### 怎么关闭文件共享
 
 - [windows如何关闭默认共享和共享服务 windows7关闭网络共享的方法]( https://www.jb51.net/os/windows/576213.html )
-- [外网文件共享445端口被封解决办法]( https://blog.csdn.net/magaiou/article/details/91845324 )
+- [外网文件共享445端口被封解决办法](https://blog.csdn.net/magaiou/article/details/91845324)
+
+### 怎么读写 ext 文件系统
+
+-  http://www.ext2fsd.com/ 
+- [Windows系统读写ext2/3/4文件系统的工具「ext2fsd」](https://blog.csdn.net/cruise_h/article/details/12894135)
+- [如何在Windows系统中访问Linux分区的文件？](https://www.zhihu.com/question/21281805)
+- [windows 为何迟迟不肯支持 ext 格式？]( https://www.v2ex.com/t/178598 )
+
+### 怎么打开  VHD  文件
+
+- [如何打开vhd文件？](https://answers.microsoft.com/zh-hans/windows/forum/windows_8-files/%e5%a6%82%e4%bd%95%e6%89%93%e5%bc%80vhd%e6%96%87/df7fbf1b-3a1b-43d9-85c2-88fb689e0fea?messageId=90425f51-e432-49da-8a79-28c54c6377c0)
 
 ---
 
@@ -55,3 +66,4 @@
 ---
 
 - [将Windows 8/10 系统装进优盘](https://bbs.luobotou.org/forum.php?mod=viewthread&tid=2427)
+
