@@ -5,6 +5,10 @@
 
     - [3分钟快装Windows虚拟机特供版(附Windows通用激活工具)](https://www.jianshu.com/p/af0db8b231b0)
 
+## 开发环境
+
+- [Build with Windows](https://docs.microsoft.com/en-us/windows/dev-environment/)
+
 ## 录屏/截屏
 
 - [FastStone](http://www.faststone.org/index.htm)
