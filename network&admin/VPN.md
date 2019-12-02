@@ -1,5 +1,21 @@
 - [轻松在 VPS 搭建 Shadowsocks 翻墙 ($5/月 支付宝)](https://www.diycode.cc/topics/738)
+
 - [Shadowsocks 一键安装脚本（四合一）](https://teddysun.com/486.html) / https://github.com/ishen7/Blog/issues/2
+
+    ```shell
+    wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+    chmod +x shadowsocks-all.sh
+    ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+    ./shadowsocks-all.sh uninstall
+    /etc/init.d/shadowsocks-python start | stop | restart | status
+    /etc/init.d/shadowsocks-r start | stop | restart | status
+    /etc/init.d/shadowsocks-go start | stop | restart | status
+    /etc/init.d/shadowsocks-libev start | stop | restart | status
+    # Shadowsocks-Python 版：/etc/shadowsocks-python/config.json
+    # ShadowsocksR 版：/etc/shadowsocks-r/config.json
+    # Shadowsocks-Go 版：/etc/shadowsocks-go/config.json
+    # Shadowsocks-libev 版：/etc/shadowsocks-libev/config.json
+    ```
 
 ---
 
@@ -19,3 +35,7 @@
 
 - [申请Oracle Cloud永久免费服务+300美元试用额度](https://51.ruyo.net/14138.html)
 - [申请 Oracle Cloud 永久免费服务 + 300 美元试用额度](https://www.v2ex.com/t/601572)
+
+---
+
+- [那些靠谱有口碑，值得推荐的国内国外 VPS 服务器 (美国香港日本)](https://www.iplaysoft.com/p/vps)
