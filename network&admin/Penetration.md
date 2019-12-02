@@ -13,3 +13,5 @@
 ## 参考文献
 
 - [使用frp内网穿透工具结合nginx实现内网web服务和tcp的转发](https://www.jianshu.com/p/0c49556e8e15)
+- [FRP 简单入门安装配置教程 - 开源免费内网穿透工具，无公网 IP 远程访问](https://www.iplaysoft.com/frp.html)
+- [一款很好用的内网穿透工具--FRP](https://www.jianshu.com/p/00c79df1aaf0)
