@@ -17,6 +17,7 @@
 - [VMware Pro 15安装macOS 10.14 Mojave](https://www.yuque.com/tangjiaqiang/hackintosh/ew0qmr?language=en-us#74dd31a6)
 - [VMWare14 安装Mac OS系统](https://www.lovyou.top/post/51.html)
 - [Mac装在真机上和虚拟机上性能有很大差别吗？](https://www.zhihu.com/question/24693842)
+- [Install macOS 10.15 catalina in VMware on Windows](https://hackintoshpro.com/install-macos-10-15-catalina-in-vmware-on-windows/)
 
 ### 常见问题
 
