@@ -114,3 +114,7 @@ ps：Mac 原版镜像是 DMG 格式，不支持直接在 VMWare 安装，需要�
 - [镜像转换 DMG => ISO (macOS 10.14.6 18G103)](https://leeyr.com/306.html)
 - [制作 MacOS cdr/iso 镜像文件](https://www.jianshu.com/p/24212c95fcc1)
 - [黑苹果 制作虚拟机CDR镜像（详细的教程，别再翻了！）](https://blog.csdn.net/qq_41855420/article/details/102750055)
+
+## VietualBox Hackintosh
+
+- [How to Install macOS High Sierra in VirtualBox on Windows 10](https://www.howtogeek.com/289594/how-to-install-macos-sierra-in-virtualbox-on-windows-10/)
