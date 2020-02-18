@@ -40,6 +40,12 @@
 
 - [那些靠谱有口碑，值得推荐的国内国外 VPS 服务器 (美国香港日本)](https://www.iplaysoft.com/p/vps)
 
+## Proxy
+
+### Trojan
+
+- [自建梯子教程 --Trojan版本](https://trojan-tutor.github.io/2019/04/10/p41.html)
+
 ## VPS
 
 ### Bandwagon
