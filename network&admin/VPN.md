@@ -53,3 +53,11 @@
 - [Block List Check](https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck)
 - [怎样检查搬瓦工IP被墙](https://www.banwago.com/1265.html)
 - [搬瓦工IP被墙后怎么购买新的IP地址](https://www.banwago.com/1407.html)
+
+## CDN
+
+### CloudFlare
+
+- [GoFlyway 进阶教程：免费域名+免费CDN+HTTP伪装=被墙的IP继续做代理](https://doubibackup.com/mc1t27yh.html)
+- [Cloudflare 国外免费 CDN 加速注册使用教程](https://www.vpsss.net/2417.html)
+- [Cloudflare免费更换节点，加速你的网站](https://zhuanlan.zhihu.com/p/88593810)
