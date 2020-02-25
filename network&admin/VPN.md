@@ -67,6 +67,7 @@
 - [v2ray新手搭建使用教程](https://blog.sprov.xyz/2019/02/04/v2ray-simple-use/)
 - [拯救被墙的IP，CDN + v2ray，安全的科学上网方法](https://blog.sprov.xyz/2019/03/11/cdn-v2ray-safe-proxy/)
 - [2020 搭建 V2Ray 服务器最新教程](https://www.idleleo.com/09/2148.html)
+- [搭建备用梯子：V2Ray + WebSocket + TLS + CloudFlare](https://printempw.github.io/v2ray-ws-tls-cloudflare/)
 
 安装脚本
 
