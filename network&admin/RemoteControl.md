@@ -1,19 +1,27 @@
 # 远程控制
 
 - [Comparison of remote desktop software](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)
+- [TeamViewer](https://www.teamviewer.com/cn/)
+
+    稳定延迟低且效果不错，而且支持局域网模式。
+
 - [AnyDesk](https://anydesk.com)
+
+    稳定延迟低且效果不错，但远程控制时，切换输入法会和 Win10 中文输入法会冲突
+
+- [Splashtop](http://www.splashtop.com/)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/access/)
 - [GoToMyPC](http://www.gotomypc.com/remote-access/)
 - [PC Anywhere](http://in.norton.com/symantec-pcanywhere/)
 - [Radmin](http://www.radmin.com/)
-- [Splashtop](http://www.splashtop.com/)
 - [Logmein](https://secure.logmein.com/)
-- [TeamViewer](https://www.teamviewer.com/cn/)
 - [Real VNC](https://www.realvnc.com)
 - [UltraVNC](http://pcsupport.about.com/od/remote-access/fl/ultravnc-review.htm)
 
 
 ## VNC
+
+Mac 原生支持，但是在 Window 上远程 Mac 延迟较高
 
 ### 客户端
 
