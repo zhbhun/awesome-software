@@ -1,5 +1,6 @@
 # 远程控制
 
+- [Comparison of remote desktop software](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)
 - [AnyDesk](https://anydesk.com)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/access/)
 - [GoToMyPC](http://www.gotomypc.com/remote-access/)
@@ -10,6 +11,15 @@
 - [TeamViewer](https://www.teamviewer.com/cn/)
 - [Real VNC](https://www.realvnc.com)
 - [UltraVNC](http://pcsupport.about.com/od/remote-access/fl/ultravnc-review.htm)
+
+
+## VNC
+
+### 客户端
+
+- [VNCViewer/RealVNC](https://www.realvnc.com/en/)
+- UltraVNC
+- TightVNC
 
 ## 其他
 
