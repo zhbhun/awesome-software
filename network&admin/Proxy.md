@@ -23,3 +23,15 @@
     2. 设置---更多设置---系统安全---加密与凭据---从存储设备安装--选择文件
 
 - [在安卓手机上安装Charles证书](https://cosmeapp.github.io/2017/09/26/install-charles-certificate-android/)
+
+## Linux
+
+### 终端代理
+
+- [Unix/Linux终端下代理快速设置](http://sunisdown.me/unixlinuxzhong-duan-xia-dai-li-kuai-su-she-zhi.html)
+
+## Mac
+
+### 终端代理
+
+- [Mac OSX终端走shadowsocks代理](https://github.com/mrdulin/blog/issues/18)
