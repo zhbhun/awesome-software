@@ -30,6 +30,20 @@
 
 - [Unix/Linux终端下代理快速设置](http://sunisdown.me/unixlinuxzhong-duan-xia-dai-li-kuai-su-she-zhi.html)
 
+```shell
+export PROXY_HOST="socks5://127.0.0.1:10808"
+function proxy() {
+  export HTTP_PROXY="$PROXY_HOST"
+  export HTTPS_PROXY="$PROXY_HOST"
+  export ALL_PROXY="$PROXY_HOST"
+}
+function unproxy () {
+  unset HTTP_PROXY
+  unset HTTPS_PROXY
+  unset ALL_PROXY
+}
+```
+
 ## Mac
 
 ### 终端代理
