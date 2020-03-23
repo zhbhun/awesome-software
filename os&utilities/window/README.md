@@ -37,6 +37,11 @@
 
 - [如何打开vhd文件？](https://answers.microsoft.com/zh-hans/windows/forum/windows_8-files/%e5%a6%82%e4%bd%95%e6%89%93%e5%bc%80vhd%e6%96%87/df7fbf1b-3a1b-43d9-85c2-88fb689e0fea?messageId=90425f51-e432-49da-8a79-28c54c6377c0)
 
+### 怎么设置开机启动程序
+
+- [如何让应用程序在计算机开机后延迟启动？](https://blog.csdn.net/lordwish/article/details/51742585)
+- [win10怎样把应用程序加入开机启动项](https://jingyan.baidu.com/article/90895e0ff3a41f64ec6b0bc3.html)
+
 ---
 
 - http://msdn.itellyou.cn/
