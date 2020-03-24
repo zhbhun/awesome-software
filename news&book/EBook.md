@@ -2,6 +2,11 @@
 
 - https://bookfere.com
 
+## 阅读软件
+
+- [Calibre](https://alternativeto.net/software/calibre/about/)
+- [Amazon Kindle](https://alternativeto.net/software/kindle/)
+
 ## 格式转化
 
 - [如何将kindle上的epub转mobi格式?](https://www.zhihu.com/question/24084903)
@@ -14,3 +19,16 @@
 ## Kindle
 
 - [Kindle 阅读器固件下载大全及升级方法](Kindle 阅读器固件下载大全及升级方法)
+
+常见问题
+
+- 如何把电子书放进 kindle
+
+    - [图解传书流程：把电子书放进 Kindle 的几种途径](https://bookfere.com/post/459.html)
+    - [Kindle 推送教程：教你用电子邮箱推送电子书](https://bookfere.com/post/3.html)
+    - [Calibre 使用教程之邮件一键推送电子书](https://bookfere.com/post/11.html)
+
+
+- 如何删除推送的书籍
+
+    - [如何删除Kindle 云端自己通过邮箱发送的书籍？](https://www.zhihu.com/question/40524576)
