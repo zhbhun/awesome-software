@@ -26,6 +26,8 @@
 - [Kindle 推送教程：教你用电子邮箱推送电子书](https://bookfere.com/post/3.html)
 - [Calibre 使用教程之邮件一键推送电子书](https://bookfere.com/post/11.html)
 
+ps：Kindle 推送只支持 mobi 格式。
+
 ## 进阶
 
 ### RSS 订阅
