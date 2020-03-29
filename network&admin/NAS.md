@@ -14,13 +14,16 @@
 - [Nextcloud](https://nextcloud.com)
 - [OwnCloud](https://owncloud.org/)
 
-### Syncthing
+### [Syncthing](https://syncthing.net/)
 
-- [Syncthing - 免费开源替代 Resilio / BT Sync 的文件夹同步工具神器 (搭建同步网盘)
-](https://www.iplaysoft.com/syncthing.html)
-- [使用 Syncthing 搭建我们的私有同步网盘](https://www.moerats.com/archives/642/)
 - [Syncthing – 数据同步利器---自己的网盘，详细安装配置指南，内网使用，发现服务器配置](https://www.cnblogs.com/jackadam/p/8568833.html)
-= [Resilio Sync 和 Syncthing 有何异同？](https://www.v2ex.com/t/315549)
+- [使用 Syncthing 搭建个人同步服务器](https://www.shephe.com/2019/07/use-syncthing-to-synchronize-your-own-files/)
+
+发现和中继服务器
+
+- [搭建和配置Syncthing发现和中继服务器](https://segmentfault.com/a/1190000017273107)
+- [Syncthing中继服务器和发现服务器](https://zhuanlan.zhihu.com/p/89776195)
+- [Linux - Syncthing中继服务器搭建](https://www.chancel.cn/articleContent/22)
 
 ## 其他
 
