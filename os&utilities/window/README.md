@@ -15,6 +15,12 @@
 - [LICEcap](https://github.com/justinfrankel/licecap)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
+## 系统工具
+
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+
+    [微软 PowerToys 小工具合集 - 免费给 Win10 加装各种增强新功能的效率利器](https://www.iplaysoft.com/powertoys.html)
+
 ## 常见问题
 
 ### Win10 升级专业版
