@@ -1,5 +1,19 @@
 # SSH
 
+## 实现
+
+### [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
+
+常见问题
+
+- `warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512).`
+
+    - 问题描述：在 window 通过 ssh 登录 Mac OS 系统时，遇到错误提示 `warning: agent returned different signature type ssh-rsa (expected rsa-sha2-512).`
+    - 解决办法：OpenSSH 7.x 存在该问题，升级至 8.x 后解决
+    - 参考文献
+
+        [ssh-agent: agent returned different signature type](https://github.com/PowerShell/Win32-OpenSSH/issues/1263)
+
 ## 客户端
 
 ### putty
