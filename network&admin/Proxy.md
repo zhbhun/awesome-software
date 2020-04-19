@@ -7,6 +7,12 @@
 ## Command
 
 - [WPO-Foundation/tsproxy](https://github.com/WPO-Foundation/tsproxy)
+- [squid](http://www.squid-cache.org/)
+- [Privoxy](https://www.privoxy.org/)
+
+    [Privoxy 教程](https://blog.zfanw.com/privoxy-tutorial/)
+
+- [TooTallNate/proxy](https://github.com/TooTallNate/proxy)
 
 ## [Charles](https://www.charlesproxy.com)
 
