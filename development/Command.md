@@ -26,3 +26,9 @@
 
 - [Linux 守护进程的启动方法](http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html)
 - [Systemd 入门教程：命令篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
+
+### 命令管理
+
+- 查找命令
+
+    - [Windows中查找命令的路径 (类似Linux中的which命令)](https://blog.csdn.net/sforiz/article/details/80540625)
