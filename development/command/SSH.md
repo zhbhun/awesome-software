@@ -60,3 +60,7 @@
 
     - [How to automate SSH login with password?](https://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password)
     - [Automatically enter SSH password with script](https://stackoverflow.com/questions/12202587/automatically-enter-ssh-password-with-script)
+
+## 参考文献
+
+- [SSH 教程](https://wangdoc.com/ssh/index.html)
