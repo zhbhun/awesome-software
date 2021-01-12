@@ -43,3 +43,10 @@
 - [NextCloud 15，个人网盘首选](https://www.v2ex.com/t/530865)
 - [准备搭建一个私有云平台,对比owncloud、迷你云、seafile,孰优孰劣？](https://www.zhihu.com/question/46318905)
 - [自搭网盘有什么好方案吗](https://www.v2ex.com/t/370780)
+
+## 常见问题
+
+### OneDive 同步慢问题
+
+- [OneDrive同步下载速度慢的原因研究](https://blog.wkings.net/archives/343)
+- [科学地让 OneDrive 飞，下载速度 5Mb/s](https://blog.tcpsoft.app/2020/03/let-onedrive-fly-scientifically/)
