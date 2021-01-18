@@ -21,6 +21,8 @@
     $ cat /etc/resolv.conf
     ```
 
+    ps：由于防火墙的问题需要做特殊配置，参考 [WSL2 中访问宿主机 Windows 的代理](https://zinglix.xyz/2020/04/18/wsl2-proxy/)
+
 - 局域网访问 Linux 网络应用
 
     ```bash
@@ -84,3 +86,8 @@
 
 - [Accessing network applications](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#accessing-network-applications)
 - [Win10 与 WSL2 间的网络和文件互访](https://logi.im/script/achieving-access-to-files-and-resources-on-the-network-between-win10-and-wsl2.html)
+
+### TODO
+
+- [WSL2 的几个使用技巧](https://zinglix.xyz/2020/04/18/wsl2-setting/)
+- [升级 WSL2 Ubuntu 至 20.04 LTS](https://zinglix.xyz/2020/06/23/upgrade-wsl2/)
