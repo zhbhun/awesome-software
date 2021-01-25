@@ -34,6 +34,7 @@
 2. 启用和关闭 SMB 1.0/CIFS 共享文件服务
 
     只启用 SMB 1.0/CIFS 客户端
+
 3. 重启系统，检查共享文件端口号
 
     ```bash
@@ -44,3 +45,12 @@
 5. 资源管理器访问 `\\127.0.0.1`，然后映射驱动盘符
 
 参考 [快速关闭Windows 445 端口的方法| 淡水网志](https://www.restran.net/2017/05/13/windows-stop-445-port/)。
+
+### Mac 通过 `smb://127.0.0.1` 访问 Virual Box 共享文件
+
+1. `sudo ifconfig lo0 127.0.0.2 alias up`
+2. `smb://user@127.0.0.2`
+
+参考 [Can I Connect to a Local SMB Share?](https://apple.stackexchange.com/questions/98331/can-i-connect-to-a-local-smb-share) 和 [Add samba folder to favorite into finder sidebar
+](https://apple.stackexchange.com/questions/188057/add-samba-folder-to-favorite-into-finder-sidebar)。
+
