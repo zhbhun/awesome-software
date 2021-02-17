@@ -72,6 +72,17 @@
 安装脚本
 
 - [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)
+
+    ```shell
+    $ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove # 卸载
+    $ source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh # 安装
+    $ v2ray tls # 开启 tls 并设置域名
+    $ v2ray stream # 设置协议为 websocket
+    $ v2ray port # 设置端口为 443
+    ```
+
+    参考 [Multi-V2Ray 一键部署](https://ferristale.com/V2Ray/)
+
 - [233boy/v2ray](https://github.com/233boy/v2ray)
 
     - [V2Ray一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
