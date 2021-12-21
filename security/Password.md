@@ -16,3 +16,7 @@
 
     1. 安装客户端 Keepass2Android
     2. 使用 Keepass2Android 以 OneDrive 的形式打开云同步的密码文件
+
+参考文献
+
+- [KeePass如何搭配坚果云实现多设备同步？](https://help.jianguoyun.com/?p=3348)
