@@ -6,6 +6,8 @@
 | [ShareX](https://github.com/ShareX/ShareX) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | Windows |
 | [PicPick](https://picpick.app/zh/) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | Windows |
 
+- [flameshot](https://github.com/flameshot-org/flameshot)
+
 ## Command
 
 - [scrot](https://manpages.ubuntu.com/manpages/impish/man1/scrot.1.html)
