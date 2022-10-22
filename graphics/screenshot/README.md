@@ -1,4 +1,10 @@
-
+| 软件/特性 | 窗口选择 | 区域选择 | 滚动截图 | 图片编辑 | 颜色识别 | 图像识别 | 文字识别 | 视频录制 | Gif 录制 | 水印 | 兼容性 |
+|--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Snipaste](https://www.snipaste.com) | ✔ | ✔ | ✗ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | Mac/Windows/Linux |
+| [腾讯截图](https://jietu.qq.com/) | ✔ | ✔ | ✗ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | Mac |
+| [FastStone Capture](https://www.faststonecapture.cn/) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | Windows |
+| [ShareX](https://github.com/ShareX/ShareX) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | Windows |
+| [PicPick](https://picpick.app/zh/) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | Windows |
 
 ## Command
 
@@ -13,3 +19,7 @@
     - [Win之NirCmd：NirCmd的简介、安装、使用方法之详细攻略](https://blog.csdn.net/hongkaihua1987/article/details/85050851)
 
 - [screencapture](https://ss64.com/osx/screencapture.html)
+
+## 参考文献
+
+- [好用的截图工具有哪些？](https://www.zhihu.com/question/19593742)
