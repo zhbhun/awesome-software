@@ -3,6 +3,8 @@
 ## Mobile
 
 - [phuedx/pinc](https://github.com/phuedx/pinc)
+- [Stream](https://apps.apple.com/us/app/stream-network-debug-tool/id1312141691) - Network Debug Tool on the App Store
+- [HttpCanary ](https://apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary) - HTTP Sniffer/Capture/Analysis
 
 ## Command
 
