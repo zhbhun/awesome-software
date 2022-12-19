@@ -5,3 +5,4 @@
 - Pocket
 - Readability
 - Wallabag
+- [readwise](https://read.readwise.io/)
