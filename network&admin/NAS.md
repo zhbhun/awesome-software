@@ -2,10 +2,20 @@
 
 ## 商业
 
+同步
+
 - One Drive
 - Google Drive
 - Dropbox
 - Nutstore
+- [backblaze](https://www.backblaze.com/cloud-backup.html)
+
+备份
+
+- [backblaze](https://www.backblaze.com/cloud-backup.html)
+- [Carbonite Basic](https://www.carbonite.com/backup-software/buy-carbonite-safe)
+- [crashplan](https://www.crashplan.com/)
+- [idrive](https://www.idrive.com/)
 
 ## 开源
 
