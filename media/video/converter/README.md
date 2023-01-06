@@ -1,0 +1,4 @@
+- [FFmpeg](https://ffmpeg.org/)
+- [HandBrake](https://handbrake.fr/) - HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [Format Factory](http://www.pcgeshi.com/) - Format Factory is a multifunctional media converter and DVD ripper. 
+- [File Converter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
