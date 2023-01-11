@@ -8,6 +8,7 @@
 - [DAC 导航](https://nwuzmed.ga/)
 - [5000 BEST THINGS](http://5000best.com/)
 - [Hype Stat](https://hypestat.com/)
+- [小报童专栏导航](https://xiaobot.netlify.app/)
 
 ## 参考
 
