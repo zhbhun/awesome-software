@@ -9,6 +9,7 @@
 - [5000 BEST THINGS](http://5000best.com/)
 - [Hype Stat](https://hypestat.com/)
 - [小报童专栏导航](https://xiaobot.netlify.app/)
+- [开源灵感数据库](https://github.com/zhaoolee/ins) - 互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 
 ## 参考
 
