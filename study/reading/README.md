@@ -1,0 +1,12 @@
+- [财新网](https://www.caixin.com/?NOJP)
+- [少数派](https://sspai.com/)
+- [Semafor](https://www.semafor.com/)
+- [iDaily 每日环球视野]
+- The Atlantic
+- 奇客 Solidot
+- [生活奇旅](https://weichen.zhubai.love/)
+- [新闻实验室](https://newslab.info/)
+- [NextDraft](https://nextdraft.com/)
+- [Shyrism](https://shyrz.zhubai.love/)
+- [Aeon](https://aeon.co/)
+
