@@ -1,1 +1,2 @@
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#automation) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [帮小忙 - QQ 浏览器](https://tool.browser.qq.com/)
