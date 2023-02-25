@@ -11,6 +11,11 @@
 
 - [Our favorite Chrome extensions of 2021](https://blog.google/products/chrome/our-favorite-chrome-extensions-2021/)
 
+### 翻译
+
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+
 ### 学习
 
 - [Equatio](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc)
