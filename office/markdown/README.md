@@ -1,2 +1,3 @@
 - [marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [typora](https://typora.io) - Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.
+- [MiaoYan](https://github.com/tw93/MiaoYan) - Lightweight Markdown app to help you write great sentences.
