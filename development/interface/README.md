@@ -11,6 +11,8 @@
 ## JSON
 
 - http://jsonplaceholder.typicode.com/
+- https://designer.mocky.io/
+- https://mockapi.io/
 
 ## 二维码
 
