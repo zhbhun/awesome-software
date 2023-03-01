@@ -3,6 +3,7 @@
 - [Profile Picture](https://www.profilepicture.ai/)
 - [starryai](https://starryai.com/starrytars)
 - [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/)
+- [peeps](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
 
 ## [alter](https://github.com/facemoji)
 
