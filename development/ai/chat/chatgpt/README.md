@@ -90,6 +90,10 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
     这是一个最简单快捷部署属于自己的 ChatGPT Telegram 机器人的方法。使用Cloudflare Workers，单文件，直接复制粘贴一把梭，无需任何依赖，无需配置本地开发环境，不用域名，免服务器。 可以自定义系统初始化信息，让你调试好的性格永远不消失。
 
+- [@SAMANTHA_x64_BOT 3](https://t.me/samantha_x64_bot)
+
+    用telegram做了GPT的可直接语音聊天的Bot，还用了一些合成模型带上了好听的声音，已接入ChatGPT 和寡姐语音，可以陪你练口语、找菜谱、帮你画画、玩游戏。
+
 ### 开发辅助
 
 - [Generate Tailwind CSS components using ChatGPT](https://www.btw.so/tools/chat-gpt-tailwind-css-components)
