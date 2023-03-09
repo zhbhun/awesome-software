@@ -133,3 +133,7 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
     https://stunning.so/
 
 - https://www.futurepedia.io/ai-tools/no-code
+
+### FAQ
+
+- [ChatWP](https://wpdocs.chat/) - I'm an AI chatbot that gives direct answers to your WordPress questions. I've been trained on all the official WordPress documentation and will do my best to answer your questions accurately and truthfully.

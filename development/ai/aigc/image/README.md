@@ -9,6 +9,7 @@
 - Stable Diffusion
 
     - [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+    - [GLIGEN](https://huggingface.co/gligen) / https://gligen.github.io/
     - [Linaqruf/anything-v3.0](https://huggingface.co/Linaqruf/anything-v3.0) - This model is intended to produce high-quality, highly detailed anime style with just a few prompts. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images.
     - [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. F
     - [stabilityai/stable-diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - This model card focuses on the model associated with the Stable Diffusion v2 model.
@@ -76,17 +77,13 @@
 
 - [AI Art Generator](https://creator.nightcafe.studio/) - Create amazing artworks using the power of Artificial Intelligence.
 - [Novel AI](https://novelai.net/)
-- - https://dream.ai/create
+- https://dream.ai/create
 - [Alpha 造图](https://www.iplaysoft.com/alpha-zaotu.html)
-- [意间 AI 绘画](http://yjai.ai-galaxy.com/)
 - [DiffusionBee](https://diffusionbee.com/) - 一个 MacOS 应用，将 Stable Diffusion 模型做成一个安装包，带有图形界面，号称是苹果电脑使用该模型的最容易方法。
 - [Charl-E](https://www.charl-e.com/) - CHARL-E packages Stable Diffusion into a simple app. No complex setup, dependencies, or internet required — just download and say what you want to see.
 - [imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [滴墨社区 - AI绘画](https://www.domo.cool/introduction)
 - [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
-
----
-
 - [flair](https://flair.ai/) - 帮助品牌生成高端产品图片。用户将产品图拖入画布，加入装饰贴纸，通过文字描述场景生成背景，完成产品图片的整体设计。
 - [clipdrop](https://clipdrop.co/) - ClipDrop 是一个图片生成类 AI 产品，主要帮助商家或者个人对图片进行各种处理，包括用文字生成图片、去掉图片背景、自动从图片中删除人物/文本/缺陷/物品、提取图片里的某些主题，以及用 AI 将任何东西从一个地方传到另一个地方等。目前 ClipDrop 的使用场景主要有 4 个领域：电商、房地产、汽车经销商和团队画像。自从 2020 年上线以来，目前已经积累了 1500 万用户，处理的图片超过了 1 亿次，其免费版的功能限制比较多，付费版每月收费 10 美金，跟 Photoroom 的价格一样。
 
