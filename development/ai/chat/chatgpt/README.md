@@ -112,5 +112,11 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
     与OpenAl ChatGPT API交互的命令行应用程序。
 
+### 提示词模板
 
+- [100+ Teachers Prompt Templates](https://theveller.gumroad.com/l/TeachersPromptTemplates-byTheVeller)
+
+    这是一个付费的 Notion 模版，就是整理了 100 个教师 ChatGPT 提示模板提供各种提示
+
+- [ 150+ Historic Figures Prompt Templates ](https://theveller.gumroad.com/l/HistoricFiguresPromptTemplates-byTheVeller)
 
