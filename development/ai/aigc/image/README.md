@@ -89,6 +89,8 @@
 
     - [10亿美金的Stability AI完成了第一笔收购，一个拥有1500万用户的产品](https://mp.weixin.qq.com/s/qDZx_2A2lk4B1_EpcUa4bA)
 
+- [SketchGPT](https://www.sketchgpt.xyz/dream)
+
 ### 提示词
 
 - [PromptBase](https://promptbase.com/) - Find top prompts, produce better results, save on API costs, sell your own prompts.
