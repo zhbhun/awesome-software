@@ -11,6 +11,10 @@
 
 - [ChatGPT ✖️ 前端 = 有点er意思](https://juejin.cn/post/7199607659992907832?utm_source=pocket_reader#heading-15)
 
+### 开发集成
+
+- [Building a GPT-3 app with Next.js and Vercel Edge Functions](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions)
+
 ## 应用
 
 - [GPT-3 Demo](https://gpt3demo.com/collection/popular)
