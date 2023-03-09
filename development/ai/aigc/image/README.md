@@ -85,6 +85,10 @@
 - [滴墨社区 - AI绘画](https://www.domo.cool/introduction)
 - [scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 
+---
+
+- [flair](https://flair.ai/) - 帮助品牌生成高端产品图片。用户将产品图拖入画布，加入装饰贴纸，通过文字描述场景生成背景，完成产品图片的整体设计。
+
 ### 提示词
 
 - [PromptBase](https://promptbase.com/) - Find top prompts, produce better results, save on API costs, sell your own prompts.

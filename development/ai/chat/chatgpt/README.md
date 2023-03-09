@@ -13,6 +13,7 @@
 
 ### 开发集成
 
+- https://github.com/openai/openai-node
 - [Building a GPT-3 app with Next.js and Vercel Edge Functions](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions)
 
 ## 应用
