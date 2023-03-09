@@ -2,6 +2,7 @@
 
 - https://alternativeto.net/software/evernote/
 - [notion](https://www.notion.so/)
+- [appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Evernote / 印象笔记](https://www.yinxiang.com/)
 - [OneNote](https://www.onenote.com)
