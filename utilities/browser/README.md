@@ -15,6 +15,8 @@
 
 - [Monica](https://chrome.google.com/webstore/detail/monica-%E2%80%94-your-chatgpt-cop/ofpnmcalabcbjgholdjcjblkibolbppb) - The ChatGPT Powered Copilot that answers your question and writes your email. Works on all websites.
 
+    https://www.producthunt.com/posts/monica-3
+
 ### 翻译
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension
