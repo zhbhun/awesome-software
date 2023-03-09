@@ -125,3 +125,9 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
 - [ 150+ Historic Figures Prompt Templates ](https://theveller.gumroad.com/l/HistoricFiguresPromptTemplates-byTheVeller)
 
+
+### 开发网站
+
+- [ChatGPT Website Builder](https://www.futurepedia.io/tool/chatgpt-website-builder)
+
+    https://stunning.so/
