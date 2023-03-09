@@ -11,6 +11,10 @@
 
 - [Our favorite Chrome extensions of 2021](https://blog.google/products/chrome/our-favorite-chrome-extensions-2021/)
 
+### AI
+
+- [Monica](https://chrome.google.com/webstore/detail/monica-%E2%80%94-your-chatgpt-cop/ofpnmcalabcbjgholdjcjblkibolbppb) - The ChatGPT Powered Copilot that answers your question and writes your email. Works on all websites.
+
 ### 翻译
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension
