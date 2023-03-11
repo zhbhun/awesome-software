@@ -87,6 +87,36 @@
 
     crxMouse Chrome 是一个可以创建自定义鼠标手势快捷方式的扩展程序，能够方便、快捷、充分发掘鼠标的所有潜力，提高浏览效率。crxMouse Chrome 的功能包括：鼠标滑动手势、拖曳、滚轮手势等。crxMouse Chrome 可将浏览器的功能手势化，无需点击页面上特定的位置，从而提高工作效率。
 
+### 沉浸式阅读
+
+- [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll/related)
+
+    简悦是国人开发的一款Chrome阅读插件，这款阅读工具非常强大，它将网页的阅读、记录、收藏等集成到了一起，你可以用它完成大部分网页阅读任务
+
+- [Reader Mode](https://chrome.google.com/webstore/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm/)
+
+    Reader Mode 是一款极简风格的Chrome阅读模式扩展，它可以自动去除网页中的混乱、广告和无用的小工具，并将页面中的文字、图片调整到最佳状态，使我们能专注于阅读内容，它提供的功能包括
+
+- [Clearly Reader](https://chrome.google.com/webstore/detail/clearly-reader-your-reade/odfonlkabodgbolnmmkdijkaeggofoop)
+
+    Clearly 是一款简洁风格的 Chrome 阅读模式插件，它会自动帮你提取网页中的正文内容，并以新的专栏页面来展示，你还可以选择网页的字体、背景颜色、主题等样式，还支持语音播放，功能比较简单，但平常阅读网页完全够用
+
+- [Outliner](https://chrome.google.com/webstore/detail/outliner-improving-your-r/eegpjjnajnplmkigmoglgbgpibgkkepo)
+
+    Outliner 是专为Outline网站制作的一款Chrome阅读扩展，Outline是一个免费的文章阅读工具，它可以帮你去除网页中的广告和多余元素，让文章更易于阅读，通常情况下我们要使用Outline，需要先拷贝网页地址，然后将其输入到Outline输入框，点击阅读才能看到整理后的文章页面，Outliner 则把这个过程简化了，只需要点击一下扩展图标，就会自动开一个标签阅读当前的文章
+
+- [Reader View](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
+
+    Reader View 是一款功能丰富的阅读模式扩展，不仅可以一键开启阅读模式，还在边栏提供了一个非常好用的工具箱，其功能有
+
+- [5款好用的Chrome阅读模式扩展推荐](https://www.v1tx.com/post/best-reader-mode-extension/)
+- [Chrome 上有能实现 Safari Reader 阅读模式的插件吗？](https://www.zhihu.com/question/19905949)
+
+### 网页大纲
+
+- [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?authuser=1)
+- [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba?authuser=1)
+
 ### [新标签页](https://chrome.google.com/webstore/category/collection/customize_your_new_tab_page)
 
 - [打造一个属于你自己的 Chrome 新标签页 ：Homely | App+1](https://sspai.com/post/45796)
@@ -96,3 +126,7 @@
 - [高颜值、高效率的 Chrome 新标签页扩展：Infinity New Tab Pro](https://sspai.com/post/42282)
 - [8 个「新标签页」Chrome 扩展，把 New Tab 页面玩出花样 | Matrix 精选](https://sspai.com/post/34191)
 - [把 New Tab 页面玩出花样： 8 个「新标签页」Chrome 扩展](https://sspai.com/post/34084)
+
+### 开发工具
+
+- [Mobile simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?authuser=1)
