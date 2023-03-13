@@ -68,6 +68,7 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
 ### 阅读辅助
 
+- [chatWeb](https://github.com/SkywalkerDarren/chatWeb)
 - [ChatPDF](https://www.chatpdf.com/)
 - [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
