@@ -90,6 +90,7 @@
     - [10亿美金的Stability AI完成了第一笔收购，一个拥有1500万用户的产品](https://mp.weixin.qq.com/s/qDZx_2A2lk4B1_EpcUa4bA)
 
 - [SketchGPT](https://www.sketchgpt.xyz/dream)
+- [deepagency](https://www.deepagency.com/) - Deep Agency offers virtual photo studio services with advanced AI technology for professional photos without leaving home.
 
 ### 提示词
 
