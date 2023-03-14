@@ -6,6 +6,7 @@
 ### 账号购买
 
 - [元宇宙人工智能商城](https://fk.fq.mk/) 
+- [国内开通Chat GPT Plus保姆级教](https://chatgpt-plus.github.io/archives/)
 
 ### 实践案例
 
@@ -21,6 +22,10 @@
 - [GPT-3 Demo](https://gpt3demo.com/collection/popular)
 - [独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品]()
 
+### 镜像站
+
+- [ChatGPT 国内镜像站](https://blog.forwardminded.xyz/)
+
 ### 摘要
 
 - [BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · 音视频内容一键总结：哔哩哔哩丨YouTube丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
@@ -28,6 +33,7 @@
 - [chat-simplifier](https://github.com/zhengbangbo/chat-simplifier/) - Simplify your chat content in seconds (by OpenAI)
 - [BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
 - [ArxivGPT](https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh) - Summarize a arXiv paper and provide key insights.
+- [有没有插件可以通过分析网页内容来高亮我需要关注的部分](https://v2ex.com/t/923279#reply0)
 
 ### 浏览器助手
 
@@ -142,3 +148,7 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 ### AI 绘画
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
+
+### 群聊机器人
+
+- [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
