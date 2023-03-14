@@ -56,6 +56,8 @@
 
     Liner 是一个可以在网页、PDF、图像、视频等资料上进行高亮标注和整理归纳的扩展程序，方便用户将分散在各个地方的资料汇集到一起。如果仅仅只有这样的功能，那么 Liner 就实在太普通了。Liner 最大的特点可以探索并汇集来自世界各地使用者们筛选的网络资源，例如可以于 Google 搜寻结果中筛选受到其他 Liner 用户信赖的内容，可以在不点击搜寻结果的情况下了解核心内容，并借由热门 Highlight 预览其他用户标记为重要的部分，迅速了解核心内容。
 
+- [cubox](https://chrome.google.com/webstore/detail/cubox/bflmgpechpeohjfomgfdkkfcbhfcjohl) - 一键收藏网页和片段供稍后阅读、标注、搜索
+
 ### 截图
 
 - [Tango](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
