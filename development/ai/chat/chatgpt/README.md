@@ -7,6 +7,7 @@
 
 - [元宇宙人工智能商城](https://fk.fq.mk/) 
 - [国内开通Chat GPT Plus保姆级教](https://chatgpt-plus.github.io/archives/)
+- [chatGPT API 付费方法](https://v2ex.com/t/923132#reply12)
 
 ### 实践案例
 
@@ -21,6 +22,7 @@
 
 - [GPT-3 Demo](https://gpt3demo.com/collection/popular)
 - [独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品]()
+- https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 
 ### 镜像站
 
@@ -37,6 +39,7 @@
 
 ### 浏览器助手
 
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)
 - [Monica](https://chrome.google.com/webstore/detail/monica-%E2%80%94-your-chatgpt-cop/ofpnmcalabcbjgholdjcjblkibolbppb) - The ChatGPT Powered Copilot that answers your question and writes your email. Works on all websites.
 
     https://www.producthunt.com/posts/monica-3
@@ -72,6 +75,8 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
     用户可以任意组合就能生成各种文章、报告、清单、计划等。另外还在开发模板功能。
 
+- [Buzz Mail](https://workspace.google.com/marketplace/app/buzz_mail/650469784389) - nstantly write professional reply to your emails using AI.
+
 ### 阅读辅助
 
 - [chatWeb](https://github.com/SkywalkerDarren/chatWeb)
@@ -79,6 +84,8 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 - [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
     这个开源项目可以使用 AI 翻译制作双语 epub 书籍，自己部署之后添加 ChatGPT or OpenAI token 就可以，另外还可以使用多个密钥，减少因为 API 调用限制而导致的错误。这类在线服务应该很快也会出现很多。
+
+- [ReadEasy.ai](https://readeasy.ai/) - Make the text of your website or app easy to read for people with low literacy skills. Read Easy.ai is built for editors and developers.
 
 ### 学习辅助
 
@@ -133,8 +140,9 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 - [ 150+ Historic Figures Prompt Templates ](https://theveller.gumroad.com/l/HistoricFiguresPromptTemplates-byTheVeller)
 
 
-### 开发网站
+### 开发辅助
 
+- [wizi](https://wizi.ai/) - Wizi is a code search feature for frontend teams that enables them to instantly search through React (JS/TS) codebases using natural language. It also includes an AI agent that can help with common frontend tasks, such as creating new features, refactoring existing code, migrating files, and updating HTML/CSS. The tool is launching soon and users can reserve a spot to get early access.
 - [ChatGPT Website Builder](https://www.futurepedia.io/tool/chatgpt-website-builder)
 
     https://stunning.so/
@@ -151,4 +159,5 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
 ### 群聊机器人
 
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现
 - [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
