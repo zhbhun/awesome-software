@@ -21,6 +21,7 @@
     - [nitrosocke/redshift-diffusion](https://huggingface.co/nitrosocke/redshift-diffusion) - This is the fine-tuned Stable Diffusion model trained on high resolution 3D artworks.
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [Envvi/Inkpunk-Diffusion](https://huggingface.co/Envvi/Inkpunk-Diffusion) - Finetuned Stable Diffusion model trained on dreambooth. Vaguely inspired by Gorillaz, FLCL, and Yoji Shinkawa. Use nvinkpunk in your prompts.
+    - [RODIN Diffusion](https://3d-avatar-diffusion.microsoft.com/) - A Generative Model for Sculpting 3D Digital Avatars / https://arxiv.org/abs/2212.06135
 
 - Disco Diffusion
 
