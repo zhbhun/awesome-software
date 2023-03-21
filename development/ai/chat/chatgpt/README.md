@@ -161,3 +161,9 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
 - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现
 - [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
+
+### 大厂应用
+
+- Linkedin
+
+    - [LinkedIn expands its generative AI assistant to recruitment ads and writing profiles](https://techcrunch.com/2023/03/15/linkedin-expands-its-generative-ai-assistant-to-recruitment-ads-and-writing-profiles/?guccounter=1&guce_referrer=aHR0cHM6Ly9tZWl0dS5mZWlzaHUuY24v&guce_referrer_sig=AQAAALOw2Z3qaV9Zj-tY2uU2ZkqO9oihynqL8qU-dmvS8xuemQo8rGwzbqMEmRsxWRs9DJkkZYWBeHzx_RDMDBrn03j0raCqQSbm5_hPPar_jDF3Qo8n50wUBApA6e8hquCYYusgHttvoOEU-tkKcMlI6PcxHVDNR6eJpAOJkW--_AqC)
