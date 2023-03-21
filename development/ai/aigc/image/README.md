@@ -22,6 +22,9 @@
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [Envvi/Inkpunk-Diffusion](https://huggingface.co/Envvi/Inkpunk-Diffusion) - Finetuned Stable Diffusion model trained on dreambooth. Vaguely inspired by Gorillaz, FLCL, and Yoji Shinkawa. Use nvinkpunk in your prompts.
     - [RODIN Diffusion](https://3d-avatar-diffusion.microsoft.com/) - A Generative Model for Sculpting 3D Digital Avatars / https://arxiv.org/abs/2212.06135
+    - [Stable Diffusion Reimagine](https://stability.ai/blog/stable-diffusion-reimagine) - Stability AI is excited to announce the launch of Stable Diffusion Reimagine! We invite users to experiment with images and ‘reimagine’ their designs through Stable Diffusion.
+
+
 
 - Disco Diffusion
 
