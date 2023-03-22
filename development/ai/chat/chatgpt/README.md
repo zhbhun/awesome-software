@@ -61,9 +61,6 @@
 ### 综合类
 
 - [writesonic](https://app.writesonic.com/)
-
-### 镜像站
-
 - [ChatGPT国内网页版免费使用](https://openaizh.com/?thread-19.htm)
 - [ChatGPT 国内镜像站](https://blog.forwardminded.xyz/)
 
