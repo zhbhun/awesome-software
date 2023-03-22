@@ -65,6 +65,7 @@
 - [ChatGPT国内网页版免费使用](https://openaizh.com/?thread-19.htm)
 - [ChatGPT 国内镜像站](https://blog.forwardminded.xyz/)
 - [ Jasper Chat](https://www.jasper.ai/chat)
+- https://open-gpt.app
 
 ---
 
