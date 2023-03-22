@@ -1,4 +1,9 @@
 
+
+## 论坛
+
+- [什么是ChatGPT代币Token以及如何计算它们？](https://openaizh.com/)
+
 ## 教程
 
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
@@ -8,6 +13,35 @@
 - [元宇宙人工智能商城](https://fk.fq.mk/) 
 - [国内开通Chat GPT Plus保姆级教](https://chatgpt-plus.github.io/archives/)
 - [chatGPT API 付费方法](https://v2ex.com/t/923132#reply12)
+
+### 费用计算
+
+- token
+
+    - 1 token ~= 4 chars in English
+    - 1 token ~= ¾ words
+    - 100 tokens ~= 75 words
+    - 1-2 sentence ~= 30 tokens
+    - 1 paragraph ~= 100 tokens
+    - 1,500 words ~= 2048 tokens
+
+- [limit](https://platform.openai.com/docs/models/overview)
+- [price](https://openai.com/pricing)
+
+参考文献
+
+- [什么是ChatGPT代币Token以及如何计算它们？](https://openaizh.com/?thread-332.htm)
+- [ChatGPT Token令牌计算器代码](https://openaizh.com/?thread-318.htm)
+
+### 应用能力
+
+- 文本生成（content generation）
+- 代码生成（code generation）
+- 总结（summarization）
+- 扩写（expansion）
+- 对话（conversation）
+- 创意写作（creative wrting）
+- 风格转换（style transfer）
 
 ### 实践案例
 
@@ -26,6 +60,7 @@
 
 ### 镜像站
 
+- [ChatGPT国内网页版免费使用](https://openaizh.com/?thread-19.htm)
 - [ChatGPT 国内镜像站](https://blog.forwardminded.xyz/)
 
 ### 摘要
