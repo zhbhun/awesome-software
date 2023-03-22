@@ -2,7 +2,8 @@
 
 ## 论坛
 
-- [什么是ChatGPT代币Token以及如何计算它们？](https://openaizh.com/)
+- https://community.openai.com/
+- [openaizh](https://openaizh.com/)
 
 ## 教程
 
