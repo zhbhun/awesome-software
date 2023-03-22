@@ -16,3 +16,4 @@
 
 - [AInav](https://www.ainav.cn/) - AInav 是一个专为您整理最前沿的精选人工智能工具的平台，让您直接找到适合的工具，成为超人
 - [FUTUREPEDIA](https://www.futurepedia.io) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
+- https://manaai.cn/ - 中文AI算法市场 (AI MARKET)
