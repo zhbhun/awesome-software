@@ -59,11 +59,16 @@
 - [独立产品灵感周刊 DecoHack #050 - 基于 ChatGPT 的 API 能做什么产品]()
 - https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 
-### 综合类
+### 镜像
 
 - [writesonic](https://app.writesonic.com/)
 - [ChatGPT国内网页版免费使用](https://openaizh.com/?thread-19.htm)
 - [ChatGPT 国内镜像站](https://blog.forwardminded.xyz/)
+- [ Jasper Chat](https://www.jasper.ai/chat)
+
+---
+
+https://writesonic.com/blog/chatgpt-alternatives/
 
 ### 摘要
 
