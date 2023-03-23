@@ -1,0 +1,1 @@
+- [MicroSoft 小游戏](https://www.msn.cn/zh-cn/play/)
