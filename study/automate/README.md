@@ -1,0 +1,3 @@
+- RSS
+- [IFTTT](https://ifttt.com/)
+- [Zapier](https://zapier.com/)
