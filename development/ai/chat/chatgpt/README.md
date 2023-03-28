@@ -60,6 +60,7 @@
 ## 插件
 
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [Chat-GPT商城插件哪家强？王炸插件自带5000个应用50000个功能…](https://mp.weixin.qq.com/s?__biz=MzI1NDI0NzU1MA==&mid=2247483838&idx=1&sn=f21544412261dc900442dba8f619d1f9&chksm=e9c956afdebedfb96b8ffd877226c46c4d9b94aa9eae4f13da22ac1559cb98c8aa93696ebf42&scene=21#wechat_redirect)
 
 ## 应用
 
