@@ -155,6 +155,10 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
     这个软件是直接通过短信聊天来做的健康饮食建议的产品 也是基于 ChatGPT，是很有创意。
 
+### 消息订阅
+
+- [如何利用GPT-4打造高效智能信息收集神器](https://mp.weixin.qq.com/s/Qe8BP5cETEEaSKrpo6UZzw)
+
 ### 机器人助手
 
 - [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
