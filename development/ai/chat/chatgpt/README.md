@@ -4,6 +4,7 @@
 
 - https://community.openai.com/
 - [openaizh](https://openaizh.com/)
+- [OpenAI 闭门讨论会V3纪要](https://oss.tgcto.com/2023/03/1679557975-92442e87f8f784b.pdf)
 
 ## 教程
 
@@ -52,6 +53,13 @@
 
 - https://github.com/openai/openai-node
 - [Building a GPT-3 app with Next.js and Vercel Edge Functions](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions)
+- [langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs through composability 
+
+    - [大语言模型集成工具 LangChain](https://zhuanlan.zhihu.com/p/599688026)
+
+## 插件
+
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 
 ## 应用
 
