@@ -239,6 +239,7 @@ ChatGPT 侧边栏可以作为您阅读📖和写作📝的助手。
 
 ### 开发辅助
 
+- [cursor](https://www.cursor.so/) - Build Software. Fast.
 - [wizi](https://wizi.ai/) - Wizi is a code search feature for frontend teams that enables them to instantly search through React (JS/TS) codebases using natural language. It also includes an AI agent that can help with common frontend tasks, such as creating new features, refactoring existing code, migrating files, and updating HTML/CSS. The tool is launching soon and users can reserve a spot to get early access.
 - [ChatGPT Website Builder](https://www.futurepedia.io/tool/chatgpt-website-builder)
 
