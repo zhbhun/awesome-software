@@ -10,6 +10,8 @@
 ## 教程
 
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/#circle=on)
+- [零基础｜搭建基于私域数据的ChatGPT](https://mp.weixin.qq.com/s/naiVMuXHAScRb_jSEJN3zg)
 
 ### 账号购买
 
