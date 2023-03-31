@@ -5,6 +5,7 @@
 - https://community.openai.com/
 - [openaizh](https://openaizh.com/)
 - [OpenAI 闭门讨论会V3纪要](https://oss.tgcto.com/2023/03/1679557975-92442e87f8f784b.pdf)
+- [Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
 ## 教程
 
@@ -37,13 +38,53 @@
 
 ### 应用能力
 
-- 文本生成（content generation）
-- 代码生成（code generation）
-- 总结（summarization）
-- 扩写（expansion）
-- 对话（conversation）
-- 创意写作（creative wrting）
-- 风格转换（style transfer）
+- 缩写：化繁为简
+
+    - 摘要
+    - 提取
+    - 总结：思维导图等
+
+- 扩写：无中生有
+
+    - 写邮件
+    - 写文章
+    - 写代码
+    - 写文案
+    - 写招聘信息
+    - 写商品描述
+    - ...
+
+- 改写：锦上添花
+
+    - 翻译
+    - 修正
+    - 润色
+    - 风格转换
+    - 代码转译
+
+- 解疑
+
+    - 解释代码
+    - 解释论文
+    - 程序 bug
+
+- 创造
+
+    - 思路
+    - 方案
+
+- 推理
+
+    - 推荐：书籍、音乐、视频等
+    - 逻辑
+    - 数学
+
+- 聊天
+
+    - 客服
+    - 老师：英语、口语
+    - 考官：面试官
+    - FAQ
 
 ### 实践案例
 
