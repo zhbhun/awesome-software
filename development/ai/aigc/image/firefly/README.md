@@ -1,1 +1,0 @@
-- https://firefly.adobe.com/
