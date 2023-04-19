@@ -58,6 +58,7 @@ TODO
 - https://feedbin.com/apps
 - [rss-reader](https://github.com/mrgodhani/rss-reader)
 - [Fiery Feeds](http://cocoacake.net/apps/fiery/)
+- https://rss.cafe/
 
 ## 订阅源
 
