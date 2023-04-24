@@ -1,0 +1,5 @@
+- [资源：在线生成ascii字符画网站](https://www.jianshu.com/p/fca56d635091)
+- http://patorjk.com/software/taag
+- http://www.network-science.de/ascii/
+- https://www.degraeve.com/img2txt.php
+- http://life.chacuo.net/convertphoto2char
