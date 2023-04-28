@@ -4,6 +4,11 @@
 
 ## 处理
 
+- [cleanup](https://clipdrop.co/cleanup) - Remove object, defect, people, or text from your pictures in seconds
+- [Remove background](https://clipdrop.co/remove-background)
+- [Image upscaler](https://clipdrop.co/image-upscaler)
+- [Replace background](https://clipdrop.co/replace-background)
+- [Text remover](https://clipdrop.co/text-remover)
 - [relight](https://clipdrop.co/relight) - Relight your photos & drawings in seconds.
 
 ## 设计
