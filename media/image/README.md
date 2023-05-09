@@ -33,5 +33,11 @@
 - [react-design-editor](https://github.com/layerhub-io/react-design-editor) - Image, Presentation and Video editor. React design editor using fabric.js. Canva clone
 - [colorfu](https://github.com/pearmini/colorfu) - Make beautiful but also meaningful wallpapers with words, colors, patterns and images.
 
+## Logo
+
+- [Brand Maker](https://brandmark.io/)
+
 ## 综合
 
+- [befunky](https://www.befunky.com/)
+- [on1](https://www.on1.com/)
