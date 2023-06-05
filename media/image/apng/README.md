@@ -1,1 +1,3 @@
 - [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files
+- [apng-maker-wasm](https://github.com/poccariswet/apng-maker-wasm) - animated png generator on wasm 
+- [APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)
