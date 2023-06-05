@@ -1,0 +1,3 @@
+- [ezgif](https://ezgif.com)
+- [Resize batches of images](https://bulkresizephotos.com/en)
+- https://www.iloveimg.com/zh-cn

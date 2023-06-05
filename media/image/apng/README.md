@@ -1,0 +1,1 @@
+- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files
