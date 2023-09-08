@@ -83,6 +83,10 @@
 - [google-translate-api](https://github.com/matheuss/google-translate-api)
 - [Is it possible to access to google translate api for free? ](https://stackoverflow.com/questions/37667671/is-it-possible-to-access-to-google-translate-api-for-free)
 
+## 诗词
+
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+
 ---
 
 - [json-api](https://github.com/json-api/json-api)
