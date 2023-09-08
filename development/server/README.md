@@ -1,0 +1,4 @@
+- Vercel
+- Zeabur
+- Railway
+- netlify
