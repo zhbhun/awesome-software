@@ -6,6 +6,7 @@
 
 ## 处理
 
+- [imagemagick](https://imagemagick.org)
 - [cleanup](https://clipdrop.co/cleanup) - Remove object, defect, people, or text from your pictures in seconds
 - [Remove background](https://clipdrop.co/remove-background)
 - [Image upscaler](https://clipdrop.co/image-upscaler)
