@@ -29,6 +29,12 @@
 
 - https://pravatar.cc/
 
+## 国家
+
+- [GeoNames](http://www.geonames.org/)
+- [REST COUNTRIES](https://restcountries.com/#endpoints-language)
+- [Countries of the World](https://countries.petethompson.net/#/)
+
 ## 图片
 
 - https://dummyimage.com/
