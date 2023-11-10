@@ -1,0 +1,3 @@
+- https://emojimix.vercel.app/
+- https://play.google.com/store/apps/details?id=net.tikolu.emojimix&hl=en_US
+- https://tikolu.net/emojimix
