@@ -35,6 +35,10 @@
 - [Syncthing中继服务器和发现服务器](https://zhuanlan.zhihu.com/p/89776195)
 - [Linux - Syncthing中继服务器搭建](https://www.chancel.cn/articleContent/22)
 
+## 相册
+
+- [immich](https://github.com/immich-app/immich)
+
 ## 其他
 
 - [Resilio Sync](https://www.resilio.com/)
