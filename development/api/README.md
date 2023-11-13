@@ -1,6 +1,7 @@
 在线接口
 ========
 
+- https://publicapis.io/
 - https://github.com/public-apis/public-apis
 - https://any-api.com/
 - https://github.com/toddmotto/public-apis - A collective list of free APIs
@@ -35,6 +36,13 @@
 - [REST COUNTRIES](https://restcountries.com/#endpoints-language)
 - [Countries of the World](https://countries.petethompson.net/#/)
 - https://www.fincher.org/Utilities/CountryLanguageList.shtml
+
+## 定位
+
+- https://ipinfo.io/
+- https://ipstack.com/
+- [Country.is](https://country.is/) / https://github.com/hakanensari/country
+- https://www.ipvigilante.com/
 
 ## 图片
 
