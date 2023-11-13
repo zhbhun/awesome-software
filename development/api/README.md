@@ -41,6 +41,13 @@
 
 - https://flagcdn.com/ / https://flagpedia.net/
 
+## 语言
+
+- [ISO 639-1](https://www.andiamo.co.uk/resources/iso-language-codes/)
+- [ISO Language Code Table](http://www.lingoes.net/en/translator/langcode.htm)
+- [language-codes.json](https://gist.github.com/Josantonius/b455e315bc7f790d14b136d61d9ae469)
+- [List of official languages by country and territory](https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory)
+
 ## 定位
 
 - https://ipinfo.io/
