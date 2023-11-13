@@ -37,6 +37,10 @@
 - [Countries of the World](https://countries.petethompson.net/#/)
 - https://www.fincher.org/Utilities/CountryLanguageList.shtml
 
+## 国旗
+
+- https://flagcdn.com/ / https://flagpedia.net/
+
 ## 定位
 
 - https://ipinfo.io/
