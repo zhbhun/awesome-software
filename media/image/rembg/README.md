@@ -1,0 +1,6 @@
+- https://www.remove.bg/
+- https://www.photoroom.com/tools/background-remover
+- https://removal.ai/upload
+- https://www.slazzer.com/
+- https://www.erase.bg/zh/upload
+- https://create.pixelcut.ai/background-remover
