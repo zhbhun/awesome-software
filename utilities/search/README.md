@@ -1,0 +1,2 @@
+- https://devv.ai/
+- https://www.phind.com/
