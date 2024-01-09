@@ -62,7 +62,6 @@
 
 - [Tango](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
 
-
     本质上它是一个屏幕截图工具，但它具有自动生成操作指南的创新之处。以往当我们想要教家里的长辈或者新入职的员工如何使用一个软件时，我们可能需要按步骤截图，并在每张截图上圈出需要点击的位置以及标注一些注意事项，这个过程可以说是非常繁琐。Tango 则能够化繁为简，用户只要像往常一样在浏览器上完成全部操作流程，Tango 就会自动将这些步骤转换成一个精美的操作指南，并可以以多种文档格式分享出去。
 
 ### 开发
