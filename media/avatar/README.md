@@ -18,3 +18,4 @@ Create your own AI-generated avatars.
 ---
 
 - [11款好用的头像生成器推荐](https://www.v1tx.com/post/best-avatar-generator/)
+- [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun
