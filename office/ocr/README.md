@@ -4,6 +4,7 @@
 - [Microsoft Azure - 计算机影像](https://azure.microsoft.com/zh-cn/services/cognitive-services/computer-vision/#Analysis)
 - [腾讯云 - 文字识别 OCR](https://cloud.tencent.com/product/ocr?lang=cn)
 - https://ocr.space/
+- https://www.onlineocr.net/
 
 ## 参考文献
 

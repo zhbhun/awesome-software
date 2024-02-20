@@ -1,0 +1,1 @@
+- [stranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
