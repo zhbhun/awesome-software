@@ -21,6 +21,7 @@
 
 - [immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension
 - [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- https://www.languagereactor.com/
 
 ### 学习
 
