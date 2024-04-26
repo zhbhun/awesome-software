@@ -1,0 +1,1 @@
+- [OneMusic](https://apps.apple.com/cn/app/onemusic-%E5%A5%BD%E5%A5%BD%E5%90%AC%E6%AD%8C-%E5%A4%8D%E5%8F%A4%E7%9A%84%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/id1631977822) - OneMusic让你在享受音乐的同时，拥有不同的视觉体验，体验多款历史经典音乐播放器的效果，带你重温过去。
