@@ -4,3 +4,4 @@
 - https://www.slazzer.com/
 - https://www.erase.bg/zh/upload
 - https://create.pixelcut.ai/background-remover
+- [removerized](https://github.com/yossTheDev/removerized) - Effortlessly Remove Image Backgrounds with AI - 🆓 Free & Limitless with 🛩️ Offline Support
