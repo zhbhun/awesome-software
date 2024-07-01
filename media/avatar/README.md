@@ -6,6 +6,7 @@
 - [peeps](https://peeps.ui8.net/) - Peeps Avatar Builder by UI8.net
 - [Peeps 3D](https://peeps.ui8.net/?p=10-2-1-1-1-1-1-1) - https://hao.logosc.cn/p/509
 - [头像制作生成器](https://www.logosc.cn/design/profile)
+- [https://neu.salon/](https://neu.salon/) - Hand-drawn avatars, styled just for you.
 
 ## [alter](https://github.com/facemoji)
 
