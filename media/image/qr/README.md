@@ -1,0 +1,1 @@
+- https://fietkau.software/qr
