@@ -2,3 +2,4 @@
 - [Video Compressor - freeconvert](https://www.freeconvert.com/video-compressor)
 - [Video Compressor - veed](https://www.veed.io/video-compressor)
 - [Compress Video - clideo](https://clideo.com/compress-video)
+- https://tools.rotato.app/compress
