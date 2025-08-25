@@ -54,3 +54,7 @@
 - [befunky](https://www.befunky.com/)
 - [on1](https://www.on1.com/)
 
+## 压缩
+
+- [Pngyu](https://github.com/nukesaq88/Pngyu) - Pngyu is Front-end GUI application of pngquant. Pngyu is distributed under the BSD license.
+
