@@ -22,6 +22,11 @@
 
 - [screencapture](https://ss64.com/osx/screencapture.html)
 
+
+## 屏幕预览
+
+- https://appcub.io/ - everything you need to create stunning app store previews that convert users and boost downloads
+
 ## 参考文献
 
 - [好用的截图工具有哪些？](https://www.zhihu.com/question/19593742)
