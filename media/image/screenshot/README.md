@@ -7,6 +7,7 @@
 | [PicPick](https://picpick.app/zh/) | ✔ | ✔ | ✔ | ✔ | ✗ | ✗ | ✗ | ✗ | ✗ | ✔ | Windows |
 
 - [flameshot](https://github.com/flameshot-org/flameshot)
+- [snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
 
 ## Command
 
